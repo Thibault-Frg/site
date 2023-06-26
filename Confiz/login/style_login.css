@@ -1,0 +1,125 @@
+.div_form_login{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+
+.div_login{
+  background-color: #FF7575;
+  height: 100%;
+  width: 100%;
+  margin-top: 0px;
+}
+
+.h1_login{
+  color: white;
+  text-align: center;
+  font-size: 5em;
+}
+
+.h2_login{
+  font-size: 2em;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+}
+
+.btn_centre_login{
+  width: 100%;
+}
+
+.box {
+  border-radius: 20px;
+  padding: 30px 25px 10px 25px;
+  background: white;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  padding-bottom: 30px;
+}
+
+h2.box-logo a {
+  font-family: 'Happy Monkey', cursive;
+  text-decoration:none;
+}
+
+.box-title {
+  font-family: 'Happy Monkey', cursive;
+  color: black;
+  font-weight: bold;
+
+  font-size: 1.4em;
+  margin-left: 10px;
+}
+
+.box-button {
+  border-radius: 5px;
+  background: #d2483c;
+  text-align: center;
+  cursor: pointer;
+  font-size: 19px;
+  width: 50%;
+  height: 51px;
+  padding: 0;
+  color: #fff;
+  border: 0;
+  outline:0;
+}
+
+.box-register
+{
+  text-align:center;
+  margin-bottom:0px;
+}
+
+.box-register a
+{
+  text-decoration:none;
+  font-size:12px;
+  color:#666;
+}
+
+.box-input {
+  font-size: 14px;
+  background: #fff;
+  border: 1px solid #ddd;
+  margin-bottom: 25px;
+  padding-left:10px;
+  border-radius: 5px;
+  width: 347px;
+  height: 50px;
+}
+
+.box-input:focus {
+    outline: none;
+    border-color:#5c7186;
+}
+
+.sucess{
+	text-align: center;
+	color: white;
+}
+
+.sucess a {
+	text-decoration: none;
+	color: #58aef7;
+}
+
+p.errorMessage {
+    background-color: #e66262;
+    border: #AA4502 1px solid;
+    padding: 5px 10px;
+    color: #FFFFFF;
+    border-radius: 3px;
+}
+
+.lien_subscribe{
+  color: black;
+  text-decoration: underline;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1em;
+}
+
+.lien_subscribe:hover{
+  color :#FF7575;
+}

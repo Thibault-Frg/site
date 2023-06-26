@@ -1,0 +1,79 @@
+.div_carte{
+  border: 2px solid #FF7575;
+  min-width: 280px;
+  max-width: 280px;
+  height: 100%;
+  padding:10px;
+  margin-bottom: 20px;
+  margin-right: 70px;
+  margin-left: 70px;
+  padding-bottom: 20px;
+}
+
+.titre_carte{
+  color: #FF7575;
+  font-size: 1.3em;
+  text-align: center;
+  font-family: 'Happy Monkey', cursive;
+  margin-bottom: 5px;
+  min-height: 70px;
+}
+
+.texte_info{
+  font-size: 1.1em;
+  text-align:center;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.div_gestion_qte_bonbon{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 22px;
+}
+
+.rectangle_qte{
+  border: 1px solid #FF7575;
+  width: 50px;
+  border-radius: 5px;
+}
+
+.nbr_add_del{
+  vertical-align: middle;
+  margin-top: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.add_del{
+  margin-top: 0px;
+  font-family: 'Poppins', sans-serif;
+  border: 1px solid #FF7575;
+  border-radius: 20px;
+  color: #FF7575;
+  background-color: white;
+    transition: 0.5s ease-in-out;
+
+}
+
+.add_del:hover{
+  background-color: #FF7575;
+  color: white;
+}
+
+.hr_carte{
+  border: 0.5px solid #FF7575;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.img_carte{
+  width: 130px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img_poubelle{
+  width: 30px;
+}

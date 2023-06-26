@@ -1,0 +1,96 @@
+.detail_div{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  min-height: 100%;
+}
+
+.detail_div_gauche{
+  width: 50%;
+}
+
+.detail_div_droite{
+  width: 50%;
+}
+
+.rond_image{
+  background-color: #FFCBCB;
+  border-radius: 300px;
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+}
+
+.img_detail{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.detail_stock{
+  font-size: 0.8em;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.detail_description{
+  font-size: 1.2em;
+  text-align: justify;
+  max-width: 70%;
+}
+
+.h3_detail_nom{
+  color: #FF7575;
+  font-size: 2.2em;
+  margin-bottom: 0px;
+  margin-top: 160px;
+}
+
+.prix{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.texte_rouge{
+  color: red;
+  margin-bottom: 0px;
+}
+
+.texte_vert{
+  color: green;
+  margin-bottom: 0px;
+}
+
+.p_qte{
+  margin-bottom: 0px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.1em;
+  margin-top: 0px;
+}
+
+.type{
+  margin-top: 0px;
+}
+
+
+.table_peremption{
+  width: 90%;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 10px;
+  border-collapse: collapse;
+}
+
+tr, th, td{
+  text-align: center;
+  border: 1px solid #FF7575;
+}
+
+th{
+  background-color: #FFCBCB;
+  padding: 6px;
+}

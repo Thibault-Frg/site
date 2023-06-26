@@ -1,0 +1,18 @@
+.div_accueil{
+  background-color: #FF7575;
+  margin-top: 0px;
+  width: 100%;
+  min-height: 515px;
+}
+
+.icone_candy{
+  opacity: 20%;
+  position: absolute;
+}
+
+.h1_accueil{
+  color: white;
+  font-size: 12em;
+  position: absolute;
+  margin-left: 30%;
+}

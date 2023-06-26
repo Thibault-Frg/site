@@ -1,0 +1,57 @@
+.div_nav{
+  background-color: #FF7575;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 25px;
+  border-radius: 0px 0px 50px 50px;
+  height: 80px;
+}
+
+.div_droite_nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+
+.h1_nav{
+  font-size: 3.5em;
+  margin-top: -10px;
+  margin-bottom: 0px;
+}
+
+.button_blanc{
+  background-color: #FFFFFF;
+  border: none;
+  width: 180px;
+  height: 40px;
+  margin-top: 5px;
+}
+
+.p_nav{
+  margin-top:2px;
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+}
+
+.form_nav{
+  margin-top: 10px;
+}
+
+.btn_gestion{
+  max-height: 60px;
+  background-color: #FF7575;
+  border : none;
+  margin-right: 25px;
+}
+
+.img_gestion{
+  height: 40px;
+}

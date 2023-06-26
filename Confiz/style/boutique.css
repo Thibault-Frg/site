@@ -1,0 +1,171 @@
+.layout_cartes_test{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.encadre_rose{
+  width: 70%;
+  border: 2px solid #FF7575;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_gestion_stock{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.espace_droit{
+  margin-right: 20px;
+}
+
+.espace_gauche{
+  margin-left: 40px;
+}
+
+.espace_haut{
+  margin-top:40px;
+}
+
+.espace_bas{
+  margin-bottom:80px;
+}
+
+
+.p_gestion_stock{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+
+.choix_nbr{
+  max-width: 120px;
+}
+
+.button_poubelle{
+  background-color: white;
+  border: none;
+}
+
+.p_add_supp{
+  text-align: center;
+}
+
+.texte_type{
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 0.8em;
+}
+
+.rouge{
+  color : red;
+}
+
+.vert{
+  color : green;
+}
+
+/* Ajout d'une boutique : --------------------------------------------------------------- */
+
+
+.p_label{
+  text-align: right;
+}
+
+.div_input{
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.encadre_texte{
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.centrer{
+  margin-bottom: 15px;
+}
+
+.form_boutique{
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn_ajout_boutique{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn_ajout_conf{
+  width: 400px;
+  color: black;
+  text-align: center;
+}
+
+.div_centre{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.label_form{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.1em;
+  text-align: center;
+  margin-top: 15px;
+  color: #FF7575;
+  font-weight: bold;
+}
+
+.btn_ajout_btq{
+  width: 260px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+}
+
+.div_ajout_boutique{
+text-align: center;
+}
+
+
+
+/* Page suppression boutique/ conf : --------------------------------------------------------------- */
+
+.p_centrer{
+  text-align: center;
+}
+
+.div_btn_supp{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p_largeur{
+  max-width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+}
